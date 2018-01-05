@@ -1,0 +1,6 @@
+[submodule "SkinMeshGL"]
+	path = SkinMeshGL
+	url = git@github.com:waura/SkinMeshGL.git
+[submodule "nmc"]
+	path = nmc
+	url = git@github.com:waura/nmc.git
