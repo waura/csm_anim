@@ -28,7 +28,7 @@ TopFrame::TopFrame(const wxString& title)
 		ID_APPLY_BUTTON,
 		_T("apply"),
 		wxPoint(5, 5),
-		wxSize(40, wxDefaultCoord));
+		wxSize(50, wxDefaultCoord));
 	csm_ctrl_panel = new CsmCtrlPanel(right_panel, wxID_ANY);
 	csm_ctrl_panel->SetCsmAnimGL( &csm_anim_gl );
 	csm_area_ctrl_panel = new CsmAreaCtrlPanel(right_panel, wxID_ANY);
