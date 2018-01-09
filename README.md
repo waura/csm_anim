@@ -39,6 +39,11 @@ $ make
 ./bin/Main
 ```
 
+## Built With
+
+* [nmc](https://github.com/waura/nmc) - Used to solve Helmholtz equation
+* [SkinMeshGL](https://github.com/waura/SkinMeshGL) - Used to create 3D model
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
