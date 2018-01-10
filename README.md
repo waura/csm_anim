@@ -26,7 +26,7 @@ brew install wxWidets
 
 ```
 # Clone this repository
-$ git clone 
+$ git clone https://github.com/waura/csm_anim.git
 
 # Go into the repository
 $ cd csm_anim
